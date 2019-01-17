@@ -1,2 +1,5 @@
 # hello-world
-try-on repository
+
+Hi!
+
+I am trying to learn the githut right now.
